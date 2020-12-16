@@ -1,0 +1,8 @@
+print("1. Pengecekan True or False")
+print("10 Lebih besar dari 9 : ")
+print(10 > 9)
+print("10 sama dengan 9 : ")
+print(10 == 9)
+print("10 Lebih kecil dari 9 : ")
+print(10 < 9)
+print("==================================")
